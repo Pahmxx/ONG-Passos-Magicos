@@ -89,8 +89,8 @@ st.write("""
 - Ampliar o acompanhamento personalizado para alunos em "Quartzo" e "Ágata" para acelerar o avanço em suas classificações.
 """)
 
-# Instruções para execução no Google Colab
-st.sidebar.header("Instruções para Google Colab")
-st.sidebar.write("1. Instale as bibliotecas: `!pip install streamlit pyngrok`.")
-st.sidebar.write("2. Rode o comando `!streamlit run app.py`.")
-st.sidebar.write("3. Use o Pyngrok para gerar um link público do Streamlit.")
+
+st.sidebar.header("")
+st.sidebar.write("")
+st.sidebar.write("")
+st.sidebar.write("")
